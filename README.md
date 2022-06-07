@@ -973,3 +973,7 @@ aside[role="complementary"] {
   width: 31.25%;
 }
 ```
+
+
+AngularJS Qustions:
+https://www.interviewbit.com/angularjs-interview-questions/#angularjs-vs-javascript
